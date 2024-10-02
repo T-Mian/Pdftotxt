@@ -1,0 +1,35 @@
+AR
+Karta katalogowa produktu
+GL-AR-35WDC-R01-RGB
+Zastosowanie
+•Parki
+•Oświetlenie mostów
+•Oświetlenie fasadowe
+•Oświetlenie akcentujące
+Cechy produktu
+•Bogata oferta optyk
+•Różne możliwości sterowania
+•Okrągła i kompaktowa konstrukcja
+•Akcesoria do redukcji zanieczyszczenia światłem
+Parametry
+Ogólne Świetlne
+Kod produktu GL-AR-35WDC-R01-RGB Moc znamionowa * 35 W
+Kod Rodziny AR Strumień świetlny oprawy** 3150 lm
+Kod barwy RGB Wydajność oprawy ** 63 lm/W
+Sterowanie DMX CRI/Ra RGB
+Stopień ochrony IP66 Temperatura barwowa RGB
+Odporność na uderzenia IK08 Barwa światła *** RGB
+Kolor Srebrno-biały Kąt rozsyłu 3,8°
+Producent źródeł światła Cree
+Mechaniczne
+Materiał obudowy Aluminium
+Materiał klosza Szkło hartowane
+Wymiary (mm) 219.5x300x100
+Elektryczne Żywotność L70 77 000h
+Napięcie stałe 24V DC Pozostałe
+Sposób montażu Do powierzchni/do słupa
+Akcesoria ****
+* tolerancja mocy 5%
+** tolerancja strumienia świetlnego 7% w temp. otoczenia 25°C
+*** Dodatkowe opcje to RGBW i regulowany CCT (2200 K-4000 K)
+**** Akcesoria do montażu przedstawione poniżej
